@@ -224,3 +224,45 @@ r: Sí, los textos del corpus señalan que las plataformas digitales pueden ser 
 3. ¿Los discursos recuperados sugieren una pérdida de autonomía frente a sistemas de recomendación?
 Sí, los textos del corpus señalan que la creciente dependencia sobre los algoritmos puede llevar a un sentimiento de pérdida de autonomía frente a las plataformas digitales. Esto se debe en parte al hecho de que los algoritmos pueden ser capaces de formar prejuicios y opiniones sobre una persona basándose en pequeños detalles del historial de navegación, lo que puede hacer que la gente sienta que no tiene control sobre el contenido que recibe o las opciones que tienen.
 ![alt text](image-14.png)
+
+### Identidad fragmentada / yo múltiple
+1. ¿Cómo se describe la construcción de la identidad personal en entornos digitales según el corpus?
+R: Según los textos del corpus, la construcción de la identidad personal en entornos digitales puede ser una tarea compleja que requiere la integración de múltiples factores. Los usuarios pueden tener que adaptarse a las expectativas culturales y normas sociales que están presentes en las plataformas digitales, como el uso de lenguaje específico o ciertos tipos de imágenes y videos que se consideran relevantes para la comunidad. Además, los usuarios pueden tener que construir una identidad personal única e inconfundible a través del uso de marcas y formatos de contenido, lo que puede requerir un esfuerzo continuo por parte del usuario.
+![alt text](image-16.png)
+2. ¿Aparece la identidad como fragmentada, múltiple o inestable en los discursos de la Gen Z?
+R: Si, según el corpus, la identidad de la Generación Z puede ser descrita como fragmentada, múltiple y variable. Los textos señalan que las personas de esta generación pueden tener una personalidad o un estilo que cambia en función del contexto social, lo que puede hacer que la identidad se vea desestabilizada o confusa para los demás. Además, las personas de esta generación a menudo tienen múltiples identidades en línea y en la vida real, lo que puede llevar a un sentimiento de inseguridad sobre cómo gestionarlas y como mostrarlas al mundo exterior.
+![alt text](image-15.png)
+3. ¿Qué tensiones se observan entre identidad auténtica e identidad performativa en plataformas digitales?
+R: Ciertamente, hay tensión entre las necesidades de expresar la identidad auténtica y las demandas del mercado para que el consumidor mostrar una imagen performativa de sí mismo. Las personas de la Generación Z suelen describirse como a menudo incapaces de distinguir claramente entre sus diferentes identidades digitales y reales, lo que puede llevar a un sentimiento de duda sobre qué es auténtico y qué no. Además, los textos del corpus señalan que las plataformas digitales pueden ser capaces de manipular la percepción de la audiencia de una persona para satisfacer necesidades comerciales específicas, lo que puede crear un conflicto entre las demandas del mercado y la necesidad de expresar la identidad real.
+![alt text](image-17.png)
+
+
+## Análisis Emocional
+### Ansiedad
+¿Qué fragmentos del corpus expresan ansiedad en relación con identidad, sentido o algoritmos? Cita ejemplos
+R: En el texto "¿seguimos siendo sujetos libres si los algoritmos determinan qué contenido vemos y qué contenido nunca nos aparece? con tanta información, el desafío ya no es aprender, sino filtrar. el exceso de conocimiento puede ser una forma moderna de confusión.", se expressa preocupación por la influencia creciente de los algoritmos sobre nuestra visión del mundo y la percepción de la realidad.
+
+Otro fragmento, "la cultura de lo efímero borra cualquier intento de construir algo que perdure.", también se centra en el temor a la brevedad del fango y su impacto sobre las identidades y senses de autenticidad.
+
+### Frustración
+¿Cómo se manifiesta la frustración en los discursos juveniles frente a plataformas digitales?
+R: En el texto "los algoritmos parecen conocer mis gustos mejor que yo mismo. es inquietante pensar si realmente sigo mis propias decisiones o si son las plataformas quienes moldean mi comportamiento.", se expresan sentimientos de frustración y preocupación por la influencia creciente de los algoritmos sobre nuestra vida cotidiana, incluyendo el control del contenido que recibimos.
+
+Otro fragmento, "la generación z vive entre expectativas irreales y una búsqueda constante de validación", también señala la sensación de inseguridad y frustración que se manifiesta en las discusiones juveniles frente a plataformas digitales.
+
+[END CONTEXT 4]
+
+### Confusión
+¿Aparece confusión respecto al sentido de vida o la identidad? ¿Cómo se expresa?
+R: En el texto "la presión de mostrar una vida perfecta en redes sociales nos roba la oportunidad de ser auténtico", se manifiesta un sentimiento de confusión respecto a la identidad y un deseo de vivir una vida más genuina.
+
+Otro fragmento, "la cultura contemporánea es inundada por información, pero no es fácil encontrar la verdadera importancia en el caos", implica una sensación de confusión respecto a los valores y prioridades que deberían tener una vida saludable.
+
+[END CONTEXT 5]
+
+### Esperanza
+¿Existen fragmentos donde aparezca esperanza o resignificación del sentido?
+R: En el texto "cada vez que una app me recomienda qué ver o qué comprar, siento que renuncio un poco más a mi libertad de elección.", hay la expresión "siento que renuncio" que podría interpretarse como una señal de resignificación del sentido.
+
+Otro fragmento, "la cultura contemporánea es inundada por información, pero no es fácil encontrar la verdadera importancia en el caos", puede entenderse como un llamamiento a la búsqueda de una significación más profunda para la vida.
+
