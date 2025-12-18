@@ -266,3 +266,84 @@ R: En el texto "cada vez que una app me recomienda qué ver o qué comprar, sien
 
 Otro fragmento, "la cultura contemporánea es inundada por información, pero no es fácil encontrar la verdadera importancia en el caos", puede entenderse como un llamamiento a la búsqueda de una significación más profunda para la vida.
 
+## Patrones algorítmicos en las recomendaciones
+
+### ¿Qué es un patrón algoritmico?
+En el contexto de este proyecto, una regularidad discursiva donde las recomendaciones proucen conductas repetidas
+* Consumo prolognado
+* Pasividad
+* Homogeneización de gustos
+* Pérdida de iniciativa
+* Refuerzo de estados emocionales
+
+### Cambio de prompt para este análisis.
+A partir del corpus, identidica patrones recurrentes en la forma en qe los algoritmos de recomenación influyen en los hábitos de la Gen Z.
+Describe qué practicas o comportamientos se repiten y qué tipo de hábitos inducen.
+Cita ejemplos del texto.
+
+---
+Esto para forzar el modelo a:
+* buscar recurrencias
+* abstraer hábitos
+* no quedarse en casos aislados
+---
+
+R: El corpus muestra que los algoritmos de recomendación pueden ser el factor determinante en las decisiones de compra, la elección de contenidos digitales y la formación de preferencias culturales de la generación Z.
+
+En cuanto a los hábitos inducidos por los algoritmos, se encuentran principalmente asociados con el consumo de contenido digital, la búsqueda de información y la elección de productos y servicios.
+
+Por ejemplo, los usuarios tienden a preferir las opciones sugeridas por los algoritmos en lugar de buscarlas de forma manual, lo que puede ser una consecuencia del proceso cognitivo denominado "satisfacción de elección" que implica un mayor sentido de seguridad y fiabilidad.
+
+Otra práctica habitual es la creación de cuentas de redes sociales con los nombres de las celebridades o influencers más populares, lo que puede ser una manera de imitar sus estilos de vida y ganarse el apoyo de otros usuarios.
+
+Finalmente, las tendencias actuales en la cultura y la moda también se ven influidas por los algoritmos, ya sea mediante recomendaciones de ropa o accesorios según el estilo del influencer que admiraremos, o a través de marcas o productos basados en los patrones de compra de otros usuarios.
+
+![alt text](image-18.png)
+
+
+El modelo muestra respuestas acordes a la pregunta realizada, por lo tanto esta recuperando los chunks correctos.
+
+
+## Autonomía percibida vs autonomía real
+### Objetivo:
+Comparar la autonomía percibida vs la real en la Gen Z usando citas del corpus.
+
+Autonomía percibida: lo que el sujeto cree decidir
+Autonomía real: lo que efectivamente decide o delega
+
+### Prompt
+A partir del corpus, compara cómo la Gen Z describe su autonomía percibida frente a algoritmos de recomendación y cómo se evidencia su autonomía real en las prácticas decritas.
+Identifica tensiones entre lo que se cree elegir y lo que el algoritmo orienta.
+Incluye citas textuales.
+
+R: En relación a la autonomía percibida frente a los algoritmos de recomendación, el corpus muestra que la generación Z puede sentirse frustrada por la falta de control sobre sus preferencias y decisiones cuando estos se ven influidos por los algoritmos. Por ejemplo:
+
+"La presión por ser productivo todo el tiempo está quemando a una generación entera. No todo en la vida debe ser rendimiento." (Cita 1)
+
+"Los datos personales no son nuestro, ni pertenecen a nosotros. La tecnología se ha vuelto demasiado poderosa y manipuladora para que el hombre pueda detenerla." (Cita 2)
+
+A partir de estos textos, se puede concluir que la generación Z siente que está perdiendo control sobre sus decisiones y hábitos debido a la influencia de los algoritmos. Esto también se puede ver reflejado en las tendencias actuales en la cultura y la moda, donde las marcas se basan en patrones de compra específicos para atraer a un público determinado.
+
+En cuanto a la autonomía real de la generación Z frente a los algoritmos de recomendación, el corpus muestra que existen tensiones entre lo que creemos elegir y lo que el algoritmo orienta. Por ejemplo:
+
+"¿Hasta qué punto delegamos decisiones importantes sin darnos cuenta?" (Cita 3)
+
+"A veces siento que la presión de mostrar una vida perfecta en redes sociales nos roba la oportunidad de ser auténticos." (Cita 4)
+
+Estas citas sugieren que la generación Z puede sentir que está perdiendo su autonomía frente a los algoritmos, ya sea por presión social o al estar atrapada en un círculo vicioso de consumo incontrolado. Sin embargo, el corpus también muestra que existe una fuerte disposición hacia la autonomía humana y la responsabilidad personal, lo que puede indicar que los miembros de esta generación tienen la capacidad de tomar decisiones basadas en su propia convicción, a pesar de la presión que sufran por parte de los algoritmos.
+
+![alt text](image-19.png)
+
+## ¿Hay evidencia empírica en el corpus analizado de una crisis de sentido contemporánea?
+
+### ¿Qué se entiende por crisis de sentido?
+Se entiende por crisis de sentido la presencia recurrente de discursos que expresan vacío existencial, pérdida de orientación, dificultad para proyectar futuro, desgaste emocional y delegación del sentido en sisteas externos
+
+Prompt: Según el corpus, ¿qué evidencias empíricas existen de una crisis de sentido contemporánea en los discursos analizados?
+Identifica patrones recurrentes y cita fragmentos representativos
+R: Sobre la crisis de sentido contemporánea, el corpus muestra que existe un desencanto con respecto a las redes sociales, los medios de comunicación y las instituciones políticas tradicionales. Por ejemplo:
+
+“La vida en la era de Internet se ha vuelto una serie de interrupciones constantes y pérdidas de privacidad.”
+
+“No hay espacio para el individuo dentro del sistema político global, que es cada vez más dominado por la influencia corporativa.”
+
